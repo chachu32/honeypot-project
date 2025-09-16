@@ -51,7 +51,7 @@ pip3 install matplotlib
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/multi-service-honeypot.git
+   git clone https://github.com/chachu32/multi-service-honeypot.git
    cd multi-service-honeypot
    ```
 
